@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261011](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261011) | 2026-10-11 | [`745709a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/745709a000482a4a24c91faef5c5a40bd653a863) | util/tc: reset end_call when rp info is reused after sync | Vulkan 1.4.363 |
 | [v26.3.0-20261010](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261010) | 2026-10-10 | [`bffd919`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bffd91947efc1932da99aca69fc540d6d4201b0c) | nvk: Use meta gfx for depth copies | Vulkan 1.4.363 |
 | [v26.3.0-20261008-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261008-r2) | 2026-10-08 | [`d0e18ae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d0e18ae81e3e02299e856661957b4eb55b4ea53d) | nvk: Implement VK_EXT_primitive_restart_index | Vulkan 1.4.363 |
 | [v26.3.0-20261008](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261008) | 2026-10-08 | [`a1ab82b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a1ab82b2a763487ae709ee1aa34f8bf879bd7b7c) | panvk/jm: switch indirect varying bufs to poly_heap | Vulkan 1.4.363 |
