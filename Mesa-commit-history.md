@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261013-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r3) | 2026-10-13 | [`7b87f8a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7b87f8ad226ecfa396fd336a1b0f96f7262e0da4) | ci/panfrost: Add G610 and G925 traces | Vulkan 1.4.363 |
 | [v26.3.0-20261013-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r2) | 2026-10-13 | [`1dee441`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1dee441c7ff6bbccc4da5221ca7b146339f317dc) | nvk: Drop the NOP from BeginCommandBuffer() | Vulkan 1.4.363 |
 | [v26.3.0-20261013](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013) | 2026-10-13 | [`9a50e25`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/9a50e25c64b941dfc03e5462d0533feda58cabe6) | intel/isl: shrink struct isl_tile_info by 8 bytes | Vulkan 1.4.363 |
 | [v26.3.0-20261012-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261012-r2) | 2026-10-12 | [`a0ff50a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a0ff50acf0e1d152f54949490fa41558d2e0f7a4) | vk/nir_lower_descriptor_heaps: Handle VK_QCOM_image_processing | Vulkan 1.4.363 |
