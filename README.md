@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`a0ff50a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a0ff50acf0e1d152f54949490fa41558d2e0f7a4) |
-| **Commit date** | 2026-10-12 |
-| **Commit title** | vk/nir_lower_descriptor_heaps: Handle VK_QCOM_image_processing |
-| **Build date** | 20261012 |
+| **Commit** | [`9a50e25`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/9a50e25c64b941dfc03e5462d0533feda58cabe6) |
+| **Commit date** | 2026-10-13 |
+| **Commit title** | intel/isl: shrink struct isl_tile_info by 8 bytes |
+| **Build date** | 20261013 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 3 ZIPs · Linux runtime: 3 ZIPs |
-| **Release** | [v26.3.0-20261012-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261012-r2) |
+| **Release** | [v26.3.0-20261013](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261013](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013) | 2026-10-13 | [`9a50e25`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/9a50e25c64b941dfc03e5462d0533feda58cabe6) | intel/isl: shrink struct isl_tile_info by 8 bytes | Vulkan 1.4.363 |
 | [v26.3.0-20261012-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261012-r2) | 2026-10-12 | [`a0ff50a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a0ff50acf0e1d152f54949490fa41558d2e0f7a4) | vk/nir_lower_descriptor_heaps: Handle VK_QCOM_image_processing | Vulkan 1.4.363 |
 | [v26.3.0-20261012](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261012) | 2026-10-12 | [`1f49528`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1f4952878d78caba95afcb4efa1a1dfaf4fbc692) | ac/nir/meta: fix determining if sparse loads must be scalarized | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
