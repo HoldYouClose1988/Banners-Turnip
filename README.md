@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`c9c99b6`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c9c99b685e27c9aa64b317d1e76b443620fe1511) |
+| **Commit** | [`378a5dc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/378a5dc61b982b7d36e744cf44407e6b55dc98b7) |
 | **Commit date** | 2026-10-14 |
-| **Commit title** | etnaviv: Drop translate_vertex_format_type(..) |
+| **Commit title** | etnaviv: blt: Re-validate tile status on full color clears |
 | **Build date** | 20261014 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 1 ZIP · Linux runtime: 1 ZIP |
-| **Release** | [v26.3.0-20261014-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r3) |
+| **Release** | [v26.3.0-20261014-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r4) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261014-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r4) | 2026-10-14 | [`378a5dc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/378a5dc61b982b7d36e744cf44407e6b55dc98b7) | etnaviv: blt: Re-validate tile status on full color clears | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r3) | 2026-10-14 | [`c9c99b6`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c9c99b685e27c9aa64b317d1e76b443620fe1511) | etnaviv: Drop translate_vertex_format_type(..) | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r2) | 2026-10-14 | [`c4e85fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c4e85fd2214572ff5dec4560da112b7f267cb069) | meson: link in orcjit instead of mcjit when using OrcJIT | Vulkan 1.4.363 |
 | [v26.3.0-20261014](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014) | 2026-10-14 | [`518cbf3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/518cbf3691d59f78e39c4e349167d1d052c94a08) | torx: prefer ExecuTorch's optimized CPU kernels, use the wheel in the docs | Vulkan 1.4.363 |
