@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`5983a55`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5983a554616d0b2b324204d06ba55d227c726be6) |
+| **Commit** | [`518cbf3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/518cbf3691d59f78e39c4e349167d1d052c94a08) |
 | **Commit date** | 2026-10-13 |
-| **Commit title** | util/tc: fix buffer over-read and thread race in staging texture_subdata |
-| **Build date** | 20261013 |
+| **Commit title** | torx: prefer ExecuTorch's optimized CPU kernels, use the wheel in the docs |
+| **Build date** | 20261014 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 1 ZIP · Linux runtime: 1 ZIP |
-| **Release** | [v26.3.0-20261013-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r4) |
+| **Release** | [v26.3.0-20261014](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261014](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014) | 2026-10-14 | [`518cbf3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/518cbf3691d59f78e39c4e349167d1d052c94a08) | torx: prefer ExecuTorch's optimized CPU kernels, use the wheel in the docs | Vulkan 1.4.363 |
 | [v26.3.0-20261013-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r4) | 2026-10-13 | [`5983a55`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5983a554616d0b2b324204d06ba55d227c726be6) | util/tc: fix buffer over-read and thread race in staging texture_subdata | Vulkan 1.4.363 |
 | [v26.3.0-20261013-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r3) | 2026-10-13 | [`7b87f8a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7b87f8ad226ecfa396fd336a1b0f96f7262e0da4) | ci/panfrost: Add G610 and G925 traces | Vulkan 1.4.363 |
 | [v26.3.0-20261013-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261013-r2) | 2026-10-13 | [`1dee441`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1dee441c7ff6bbccc4da5221ca7b146339f317dc) | nvk: Drop the NOP from BeginCommandBuffer() | Vulkan 1.4.363 |
