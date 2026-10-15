@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261015-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r3) | 2026-10-15 | [`a4e49f8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a4e49f802b4f5a15163fe085cf2afd7c311171b2) | radv: flatten ifs in CmdExecuteCommands | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r2) | 2026-10-15 | [`e793bd0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e793bd0fa9580da35def95a47d265fee225c023d) | llvmpipe: handle indirect geometry shader inputs | Vulkan 1.4.363 |
 | [v26.3.0-20261015](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015) | 2026-10-15 | [`2521913`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25219134d356b2e2e0d408ab17b8a95a81a05623) | util/u_queue: add a flag to wake blocked producers at half-empty | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r6) | 2026-10-14 | [`c1e9286`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c1e9286524140c53cad7c29c4b0dc6c80703de4c) | gfxstream: populate VkAndroidHardwareBufferFormatProperties2ANDROID | Vulkan 1.4.363 |
