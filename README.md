@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`c1e9286`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c1e9286524140c53cad7c29c4b0dc6c80703de4c) |
-| **Commit date** | 2026-10-14 |
-| **Commit title** | gfxstream: populate VkAndroidHardwareBufferFormatProperties2ANDROID |
-| **Build date** | 20261014 |
+| **Commit** | [`2521913`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25219134d356b2e2e0d408ab17b8a95a81a05623) |
+| **Commit date** | 2026-10-15 |
+| **Commit title** | util/u_queue: add a flag to wake blocked producers at half-empty |
+| **Build date** | 20261015 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 1 ZIP · Linux runtime: 1 ZIP |
-| **Release** | [v26.3.0-20261014-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r6) |
+| **Release** | [v26.3.0-20261015](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,12 +122,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261015](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015) | 2026-10-15 | [`2521913`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25219134d356b2e2e0d408ab17b8a95a81a05623) | util/u_queue: add a flag to wake blocked producers at half-empty | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r6) | 2026-10-14 | [`c1e9286`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c1e9286524140c53cad7c29c4b0dc6c80703de4c) | gfxstream: populate VkAndroidHardwareBufferFormatProperties2ANDROID | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r5) | 2026-10-14 | [`a0e120b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a0e120b4dbbc4f79efd439798593a75525b39d9f) | lvp/ci: Skip timing out test | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r4) | 2026-10-14 | [`378a5dc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/378a5dc61b982b7d36e744cf44407e6b55dc98b7) | etnaviv: blt: Re-validate tile status on full color clears | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r3) | 2026-10-14 | [`c9c99b6`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c9c99b685e27c9aa64b317d1e76b443620fe1511) | etnaviv: Drop translate_vertex_format_type(..) | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r2) | 2026-10-14 | [`c4e85fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c4e85fd2214572ff5dec4560da112b7f267cb069) | meson: link in orcjit instead of mcjit when using OrcJIT | Vulkan 1.4.363 |
-| [v26.3.0-20261014](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014) | 2026-10-14 | [`518cbf3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/518cbf3691d59f78e39c4e349167d1d052c94a08) | torx: prefer ExecuTorch's optimized CPU kernels, use the wheel in the docs | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
