@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`ae2dbaf`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ae2dbaf0da4495a8210edaa091cc758c8861c6ed) |
+| **Commit** | [`cf98950`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/cf98950a3f548751301091ae4a224b8c8f59d988) |
 | **Commit date** | 2026-10-15 |
-| **Commit title** | ci: disable Qualcomm farm due to setup changes |
+| **Commit title** | panvk: fix allow_merging_workgroups logic |
 | **Build date** | 20261015 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v26.3.0-20261015-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r4) |
+| **Release** | [v26.3.0-20261015-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261015-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r5) | 2026-10-15 | [`cf98950`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/cf98950a3f548751301091ae4a224b8c8f59d988) | panvk: fix allow_merging_workgroups logic | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r4) | 2026-10-15 | [`ae2dbaf`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ae2dbaf0da4495a8210edaa091cc758c8861c6ed) | ci: disable Qualcomm farm due to setup changes | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r3) | 2026-10-15 | [`a4e49f8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a4e49f802b4f5a15163fe085cf2afd7c311171b2) | radv: flatten ifs in CmdExecuteCommands | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r2) | 2026-10-15 | [`e793bd0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e793bd0fa9580da35def95a47d265fee225c023d) | llvmpipe: handle indirect geometry shader inputs | Vulkan 1.4.363 |
