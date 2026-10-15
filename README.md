@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`a4e49f8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a4e49f802b4f5a15163fe085cf2afd7c311171b2) |
+| **Commit** | [`ae2dbaf`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ae2dbaf0da4495a8210edaa091cc758c8861c6ed) |
 | **Commit date** | 2026-10-15 |
-| **Commit title** | radv: flatten ifs in CmdExecuteCommands |
+| **Commit title** | ci: disable Qualcomm farm due to setup changes |
 | **Build date** | 20261015 |
-| **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 1 ZIP · Linux runtime: 1 ZIP |
-| **Release** | [v26.3.0-20261015-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r3) |
+| **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
+| **Release** | [v26.3.0-20261015-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r4) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,12 +122,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20261015-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r4) | 2026-10-15 | [`ae2dbaf`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ae2dbaf0da4495a8210edaa091cc758c8861c6ed) | ci: disable Qualcomm farm due to setup changes | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r3) | 2026-10-15 | [`a4e49f8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a4e49f802b4f5a15163fe085cf2afd7c311171b2) | radv: flatten ifs in CmdExecuteCommands | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r2) | 2026-10-15 | [`e793bd0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e793bd0fa9580da35def95a47d265fee225c023d) | llvmpipe: handle indirect geometry shader inputs | Vulkan 1.4.363 |
 | [v26.3.0-20261015](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015) | 2026-10-15 | [`2521913`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25219134d356b2e2e0d408ab17b8a95a81a05623) | util/u_queue: add a flag to wake blocked producers at half-empty | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r6) | 2026-10-14 | [`c1e9286`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c1e9286524140c53cad7c29c4b0dc6c80703de4c) | gfxstream: populate VkAndroidHardwareBufferFormatProperties2ANDROID | Vulkan 1.4.363 |
 | [v26.3.0-20261014-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r5) | 2026-10-14 | [`a0e120b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a0e120b4dbbc4f79efd439798593a75525b39d9f) | lvp/ci: Skip timing out test | Vulkan 1.4.363 |
-| [v26.3.0-20261014-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261014-r4) | 2026-10-14 | [`378a5dc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/378a5dc61b982b7d36e744cf44407e6b55dc98b7) | etnaviv: blt: Re-validate tile status on full color clears | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
