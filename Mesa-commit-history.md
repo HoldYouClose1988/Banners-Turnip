@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) | 2026-10-16 | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) | radv: add missing tracking for fragment output state regs on GFX12 | Vulkan 1.4.363 |
 | [v27.0.0-20261016](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016) | 2026-10-16 | [`5f63d33`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f63d33f95d0fcd463d8f547f61de53b7d8e3748) | wgl: draw the front and back offscreen once the front buffer is used | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r7](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r7) | 2026-10-15 | [`827d538`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/827d538ed9eb53e0a3c23f01ba68f858cdfdbcb3) | panfrost: add ai-policy | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r6) | 2026-10-15 | [`bf76a9d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bf76a9d67385dcdccb9758e104edd2283aa0847c) | gfxstream: fix comment | Vulkan 1.4.363 |

@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`5f63d33`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f63d33f95d0fcd463d8f547f61de53b7d8e3748) |
+| **Commit** | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) |
 | **Commit date** | 2026-10-16 |
-| **Commit title** | wgl: draw the front and back offscreen once the front buffer is used |
+| **Commit title** | radv: add missing tracking for fragment output state regs on GFX12 |
 | **Build date** | 20261016 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 3 ZIPs · Linux runtime: 3 ZIPs |
-| **Release** | [v27.0.0-20261016](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016) |
+| **Release** | [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) | 2026-10-16 | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) | radv: add missing tracking for fragment output state regs on GFX12 | Vulkan 1.4.363 |
 | [v27.0.0-20261016](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016) | 2026-10-16 | [`5f63d33`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f63d33f95d0fcd463d8f547f61de53b7d8e3748) | wgl: draw the front and back offscreen once the front buffer is used | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r7](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r7) | 2026-10-15 | [`827d538`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/827d538ed9eb53e0a3c23f01ba68f858cdfdbcb3) | panfrost: add ai-policy | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r6) | 2026-10-15 | [`bf76a9d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bf76a9d67385dcdccb9758e104edd2283aa0847c) | gfxstream: fix comment | Vulkan 1.4.363 |
