@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261016-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r5) | 2026-10-16 | [`48902cb`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48902cbf6740ed4dc7199f8eafa93d3e5c176b3e) | drirc: match SPECviewperf13 on windows | Vulkan 1.4.363 |
 | [v27.0.0-20261016-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r4) | 2026-10-16 | [`3923c34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3923c34547dc1fe0d46ed01fe6234833b40c56b7) | intel/ds: make Perfetto submission IDs unique per process | Vulkan 1.4.363 |
 | [v27.0.0-20261016-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r3) | 2026-10-16 | [`3923c34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3923c34547dc1fe0d46ed01fe6234833b40c56b7) | intel/ds: make Perfetto submission IDs unique per process | Vulkan 1.4.363 |
 | [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) | 2026-10-16 | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) | radv: add missing tracking for fragment output state regs on GFX12 | Vulkan 1.4.363 |

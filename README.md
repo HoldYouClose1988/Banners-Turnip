@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`3923c34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3923c34547dc1fe0d46ed01fe6234833b40c56b7) |
+| **Commit** | [`48902cb`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48902cbf6740ed4dc7199f8eafa93d3e5c176b3e) |
 | **Commit date** | 2026-10-16 |
-| **Commit title** | intel/ds: make Perfetto submission IDs unique per process |
+| **Commit title** | drirc: match SPECviewperf13 on windows |
 | **Build date** | 20261016 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261016-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r4) |
+| **Release** | [v27.0.0-20261016-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261016-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r5) | 2026-10-16 | [`48902cb`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48902cbf6740ed4dc7199f8eafa93d3e5c176b3e) | drirc: match SPECviewperf13 on windows | Vulkan 1.4.363 |
 | [v27.0.0-20261016-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r4) | 2026-10-16 | [`3923c34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3923c34547dc1fe0d46ed01fe6234833b40c56b7) | intel/ds: make Perfetto submission IDs unique per process | Vulkan 1.4.363 |
 | [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) | 2026-10-16 | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) | radv: add missing tracking for fragment output state regs on GFX12 | Vulkan 1.4.363 |
 | [v27.0.0-20261016](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016) | 2026-10-16 | [`5f63d33`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f63d33f95d0fcd463d8f547f61de53b7d8e3748) | wgl: draw the front and back offscreen once the front buffer is used | Vulkan 1.4.363 |
@@ -129,7 +130,6 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | [v26.3.0-20261015-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r6) | 2026-10-15 | [`bf76a9d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bf76a9d67385dcdccb9758e104edd2283aa0847c) | gfxstream: fix comment | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r5) | 2026-10-15 | [`cf98950`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/cf98950a3f548751301091ae4a224b8c8f59d988) | panvk: fix allow_merging_workgroups logic | Vulkan 1.4.363 |
 | [v26.3.0-20261015-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r4) | 2026-10-15 | [`ae2dbaf`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ae2dbaf0da4495a8210edaa091cc758c8861c6ed) | ci: disable Qualcomm farm due to setup changes | Vulkan 1.4.363 |
-| [v26.3.0-20261015-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v26.3.0-20261015-r3) | 2026-10-15 | [`a4e49f8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a4e49f802b4f5a15163fe085cf2afd7c311171b2) | radv: flatten ifs in CmdExecuteCommands | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
