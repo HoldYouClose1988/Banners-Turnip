@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`335d569`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/335d5698dca1d1b9d11ef18cf5f523cc0f7f58fb) |
+| **Commit** | [`d1e369d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d1e369d8a63eb82ba277e4e25d35982ce2760204) |
 | **Commit date** | 2026-10-17 |
-| **Commit title** | kk: Fix miptail computation due to behaviour difference in OS versions |
-| **Build date** | 20261017 |
+| **Commit title** | util: Fix NSEC_PER_SEC macro-redefined warning on macOS |
+| **Build date** | 20261018 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261017-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261017-r2) |
+| **Release** | [v27.0.0-20261018](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261018) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,13 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
-| [v27.0.0-20261017-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261017-r2) | 2026-10-17 | [`335d569`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/335d5698dca1d1b9d11ef18cf5f523cc0f7f58fb) | kk: Fix miptail computation due to behaviour difference in OS versions | Vulkan 1.4.363 |
-| [v27.0.0-20261017](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261017) | 2026-10-17 | [`14a19dd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/14a19dd6c167d0d5fd0126688318ed5461022588) | nak: fix extra . when printing membar | Vulkan 1.4.363 |
-| [v27.0.0-20261016-r7](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r7) | 2026-10-16 | [`af2f67b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/af2f67b2b3671ce4d5f95bba611a01e7eae3c84f) | intel/compiler: Fix cooperative matrix conversion signedness | Vulkan 1.4.363 |
-| [v27.0.0-20261016-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r6) | 2026-10-16 | [`86c7176`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/86c7176d2dd0065555521bf8c61f208bf53c75d6) | intel/tools: Validate Xe3 RT references before hang replay | Vulkan 1.4.363 |
-| [v27.0.0-20261016-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r5) | 2026-10-16 | [`48902cb`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48902cbf6740ed4dc7199f8eafa93d3e5c176b3e) | drirc: match SPECviewperf13 on windows | Vulkan 1.4.363 |
-| [v27.0.0-20261016-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r4) | 2026-10-16 | [`3923c34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3923c34547dc1fe0d46ed01fe6234833b40c56b7) | intel/ds: make Perfetto submission IDs unique per process | Vulkan 1.4.363 |
-| [v27.0.0-20261016-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261016-r2) | 2026-10-16 | [`535776d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/535776da5badbe2b65275a055dc0e5a7d1c5c3b0) | radv: add missing tracking for fragment output state regs on GFX12 | Vulkan 1.4.363 |
+| [v27.0.0-20261018](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261018) | 2026-10-18 | [`d1e369d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d1e369d8a63eb82ba277e4e25d35982ce2760204) | util: Fix NSEC_PER_SEC macro-redefined warning on macOS | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
