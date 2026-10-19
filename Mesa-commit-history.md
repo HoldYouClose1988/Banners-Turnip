@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261019-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r2) | 2026-10-19 | [`56175d9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/56175d9536156502510ae41b2a10f6d0da360b0f) | vulkan/meta: fixup typo | Vulkan 1.4.363 |
 | [v27.0.0-20261019](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019) | 2026-10-19 | [`f28352d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/f28352d1179a4a85b4be286a883747bae2d3786b) | radv: enable host_image_copy by default on GFX10 | Vulkan 1.4.363 |
 | [v27.0.0-20261018-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261018-r3) | 2026-10-18 | [`c823a83`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c823a83e8f373a5c36c2b9ed1d7dc98a4f3360ee) | brw: Use devinfo in size_read() for DPAS | Vulkan 1.4.363 |
 | [v27.0.0-20261018-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261018-r2) | 2026-10-18 | [`4c12390`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4c12390be306fb73b9b8e6e9445a3102a39ced77) | zink: make MoltenVK headers and support optional on macOS | Vulkan 1.4.363 |
