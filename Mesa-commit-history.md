@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261020](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020) | 2026-10-19 | [`4b0f64c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4b0f64ceac6a86af38c1e69cd38cf29f84ba611d) | jay: Handle load/store_global_block_intel | Vulkan 1.4.363 |
 | [v27.0.0-20261019-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r3) | 2026-10-19 | [`44fd0fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/44fd0fde8187b5bb1e919625f1ba24cb36c18cbc) | gfxstream: expose VK_KHR_device_group | Vulkan 1.4.363 |
 | [v27.0.0-20261019-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r2) | 2026-10-19 | [`56175d9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/56175d9536156502510ae41b2a10f6d0da360b0f) | vulkan/meta: fixup typo | Vulkan 1.4.363 |
 | [v27.0.0-20261019](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019) | 2026-10-19 | [`f28352d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/f28352d1179a4a85b4be286a883747bae2d3786b) | radv: enable host_image_copy by default on GFX10 | Vulkan 1.4.363 |

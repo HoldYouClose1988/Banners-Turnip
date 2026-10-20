@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`44fd0fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/44fd0fde8187b5bb1e919625f1ba24cb36c18cbc) |
+| **Commit** | [`4b0f64c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4b0f64ceac6a86af38c1e69cd38cf29f84ba611d) |
 | **Commit date** | 2026-10-19 |
-| **Commit title** | gfxstream: expose VK_KHR_device_group |
-| **Build date** | 20261019 |
+| **Commit title** | jay: Handle load/store_global_block_intel |
+| **Build date** | 20261020 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261019-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r3) |
+| **Release** | [v27.0.0-20261020](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261020](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020) | 2026-10-20 | [`4b0f64c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4b0f64ceac6a86af38c1e69cd38cf29f84ba611d) | jay: Handle load/store_global_block_intel | Vulkan 1.4.363 |
 | [v27.0.0-20261019-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r3) | 2026-10-19 | [`44fd0fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/44fd0fde8187b5bb1e919625f1ba24cb36c18cbc) | gfxstream: expose VK_KHR_device_group | Vulkan 1.4.363 |
 | [v27.0.0-20261019-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r2) | 2026-10-19 | [`56175d9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/56175d9536156502510ae41b2a10f6d0da360b0f) | vulkan/meta: fixup typo | Vulkan 1.4.363 |
 | [v27.0.0-20261019](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019) | 2026-10-19 | [`f28352d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/f28352d1179a4a85b4be286a883747bae2d3786b) | radv: enable host_image_copy by default on GFX10 | Vulkan 1.4.363 |
