@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261020-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r4) | 2026-10-20 | [`255ecc7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/255ecc7e5837b2824d56f2d24ce500ae96313a83) | v3dv: advertise VK_EXT_host_image_copy | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r3) | 2026-10-20 | [`7f13762`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7f13762f3fae332deee4c58b3ac00d1ac7a45153) | radv: only emit primitive restart for indexed draws on GFX11+ | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r2) | 2026-10-20 | [`fb891a5`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/fb891a59a94b8791b40ad2ef6b6ae153b882da88) | v3dv: advertise VK_KHR_maintenance6 | Vulkan 1.4.363 |
 | [v27.0.0-20261020](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020) | 2026-10-19 | [`4b0f64c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4b0f64ceac6a86af38c1e69cd38cf29f84ba611d) | jay: Handle load/store_global_block_intel | Vulkan 1.4.363 |

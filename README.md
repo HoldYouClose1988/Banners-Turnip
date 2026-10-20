@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`7f13762`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7f13762f3fae332deee4c58b3ac00d1ac7a45153) |
+| **Commit** | [`255ecc7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/255ecc7e5837b2824d56f2d24ce500ae96313a83) |
 | **Commit date** | 2026-10-20 |
-| **Commit title** | radv: only emit primitive restart for indexed draws on GFX11+ |
+| **Commit title** | v3dv: advertise VK_EXT_host_image_copy |
 | **Build date** | 20261020 |
-| **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 3 ZIPs |
-| **Release** | [v27.0.0-20261020-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r3) |
+| **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
+| **Release** | [v27.0.0-20261020-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r4) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,11 +122,11 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261020-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r4) | 2026-10-20 | [`255ecc7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/255ecc7e5837b2824d56f2d24ce500ae96313a83) | v3dv: advertise VK_EXT_host_image_copy | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r3) | 2026-10-20 | [`7f13762`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7f13762f3fae332deee4c58b3ac00d1ac7a45153) | radv: only emit primitive restart for indexed draws on GFX11+ | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r2) | 2026-10-20 | [`fb891a5`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/fb891a59a94b8791b40ad2ef6b6ae153b882da88) | v3dv: advertise VK_KHR_maintenance6 | Vulkan 1.4.363 |
 | [v27.0.0-20261020](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020) | 2026-10-20 | [`4b0f64c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4b0f64ceac6a86af38c1e69cd38cf29f84ba611d) | jay: Handle load/store_global_block_intel | Vulkan 1.4.363 |
 | [v27.0.0-20261019-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r3) | 2026-10-19 | [`44fd0fd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/44fd0fde8187b5bb1e919625f1ba24cb36c18cbc) | gfxstream: expose VK_KHR_device_group | Vulkan 1.4.363 |
-| [v27.0.0-20261019-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261019-r2) | 2026-10-19 | [`56175d9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/56175d9536156502510ae41b2a10f6d0da360b0f) | vulkan/meta: fixup typo | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
