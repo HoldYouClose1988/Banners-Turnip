@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261021-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r6) | 2026-10-21 | [`1fddf34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1fddf34d3cd6c637f8b80afa6305bcd60383234a) | pco: Enable scalar blend consts | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r5) | 2026-10-21 | [`929957a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/929957a7e9db53aaa2b96a38cae753fbfe1423ab) | lavapipe: Add CPU-based BC texture decompression emulation | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r4) | 2026-10-21 | [`48ac151`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48ac151e847f17f1b36a76e63f73ec400ed78097) | hasvk: fixup environment variable name in log output | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r3) | 2026-10-21 | [`1995244`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1995244946e85247e849fb65e3b0a71c27bad1fb) | gfxstream: make kumquat gpu socket path configurable via env var | Vulkan 1.4.363 |
