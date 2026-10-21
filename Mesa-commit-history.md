@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261021](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021) | 2026-10-20 | [`96aea8a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/96aea8aa7595d47abe9e24b434e1ced4199e4a60) | spirv: Move OpSpecConstantOp into its own function | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r5) | 2026-10-20 | [`36bb11d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/36bb11df1c4fbdbad452cfa9c9b0c447a69c8bab) | radeonsi: re-emit the sqtt pipeline when shader states are emitted | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r4) | 2026-10-20 | [`255ecc7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/255ecc7e5837b2824d56f2d24ce500ae96313a83) | v3dv: advertise VK_EXT_host_image_copy | Vulkan 1.4.363 |
 | [v27.0.0-20261020-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261020-r3) | 2026-10-20 | [`7f13762`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/7f13762f3fae332deee4c58b3ac00d1ac7a45153) | radv: only emit primitive restart for indexed draws on GFX11+ | Vulkan 1.4.363 |
