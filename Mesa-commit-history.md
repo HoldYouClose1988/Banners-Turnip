@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261021-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r4) | 2026-10-21 | [`48ac151`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/48ac151e847f17f1b36a76e63f73ec400ed78097) | hasvk: fixup environment variable name in log output | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r3) | 2026-10-21 | [`1995244`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1995244946e85247e849fb65e3b0a71c27bad1fb) | gfxstream: make kumquat gpu socket path configurable via env var | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r2) | 2026-10-21 | [`f7c93a1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/f7c93a1352b578fbea6c249227d44df65b8f6a35) | glsl/lower_instructions: Use ir_builder carry instead of local _carry helper | Vulkan 1.4.363 |
 | [v27.0.0-20261021](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021) | 2026-10-20 | [`96aea8a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/96aea8aa7595d47abe9e24b434e1ced4199e4a60) | spirv: Move OpSpecConstantOp into its own function | Vulkan 1.4.363 |
