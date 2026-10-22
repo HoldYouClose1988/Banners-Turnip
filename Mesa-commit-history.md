@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261022-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r2) | 2026-10-22 | [`69f1f21`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69f1f21f0258a77046dbaeb8ed7a8ad37a683006) | tu: upload draw_id_offset through driver_params UBO | Vulkan 1.4.363 |
 | [v27.0.0-20261022](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022) | 2026-10-22 | [`4f6314d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f6314dc9cb11ee105a1cb6f656b4d1cadc736e4) | tu: Drop reference taken with get_vis_stream_patchpoint_cs() | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r6) | 2026-10-21 | [`1fddf34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1fddf34d3cd6c637f8b80afa6305bcd60383234a) | pco: Enable scalar blend consts | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r5) | 2026-10-21 | [`929957a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/929957a7e9db53aaa2b96a38cae753fbfe1423ab) | lavapipe: Add CPU-based BC texture decompression emulation | Vulkan 1.4.363 |
