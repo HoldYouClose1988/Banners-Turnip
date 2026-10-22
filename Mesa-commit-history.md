@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261022-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r3) | 2026-10-22 | [`617f463`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/617f463e21a12a8125dae72f5b8818770da81195) | nvk: only upload descriptor state if dirty | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r2) | 2026-10-22 | [`69f1f21`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69f1f21f0258a77046dbaeb8ed7a8ad37a683006) | tu: upload draw_id_offset through driver_params UBO | Vulkan 1.4.363 |
 | [v27.0.0-20261022](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022) | 2026-10-22 | [`4f6314d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f6314dc9cb11ee105a1cb6f656b4d1cadc736e4) | tu: Drop reference taken with get_vis_stream_patchpoint_cs() | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r6) | 2026-10-21 | [`1fddf34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1fddf34d3cd6c637f8b80afa6305bcd60383234a) | pco: Enable scalar blend consts | Vulkan 1.4.363 |
