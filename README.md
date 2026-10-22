@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`a799b0b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a799b0baca93870e722b12391a0c273d77023bf3) |
+| **Commit** | [`64245a2`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/64245a20b78824634008b240c3f97c29a353ebe3) |
 | **Commit date** | 2026-10-22 |
-| **Commit title** | tu: Apply tu_enable_ssbo_emulation workaround to all UE5 games |
+| **Commit title** | tu: Add back float16 3D path for multisampled copies |
 | **Build date** | 20261022 |
 | **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 3 ZIPs · Linux runtime: 3 ZIPs |
-| **Release** | [v27.0.0-20261022-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r4) |
+| **Release** | [v27.0.0-20261022-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,12 +122,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261022-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r5) | 2026-10-22 | [`64245a2`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/64245a20b78824634008b240c3f97c29a353ebe3) | tu: Add back float16 3D path for multisampled copies | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r4) | 2026-10-22 | [`a799b0b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a799b0baca93870e722b12391a0c273d77023bf3) | tu: Apply tu_enable_ssbo_emulation workaround to all UE5 games | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r3) | 2026-10-22 | [`617f463`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/617f463e21a12a8125dae72f5b8818770da81195) | nvk: only upload descriptor state if dirty | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r2) | 2026-10-22 | [`69f1f21`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69f1f21f0258a77046dbaeb8ed7a8ad37a683006) | tu: upload draw_id_offset through driver_params UBO | Vulkan 1.4.363 |
 | [v27.0.0-20261022](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022) | 2026-10-22 | [`4f6314d`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f6314dc9cb11ee105a1cb6f656b4d1cadc736e4) | tu: Drop reference taken with get_vis_stream_patchpoint_cs() | Vulkan 1.4.363 |
 | [v27.0.0-20261021-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r6) | 2026-10-21 | [`1fddf34`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1fddf34d3cd6c637f8b80afa6305bcd60383234a) | pco: Enable scalar blend consts | Vulkan 1.4.363 |
-| [v27.0.0-20261021-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261021-r5) | 2026-10-21 | [`929957a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/929957a7e9db53aaa2b96a38cae753fbfe1423ab) | lavapipe: Add CPU-based BC texture decompression emulation | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
