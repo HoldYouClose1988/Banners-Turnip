@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261022-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r6) | 2026-10-22 | [`73244ce`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/73244ce974816fb41ccfb2fb3440cb8049b0dbed) | llvmpipe: avoid running helper invocations when not needed | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r5) | 2026-10-22 | [`64245a2`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/64245a20b78824634008b240c3f97c29a353ebe3) | tu: Add back float16 3D path for multisampled copies | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r4) | 2026-10-22 | [`a799b0b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a799b0baca93870e722b12391a0c273d77023bf3) | tu: Apply tu_enable_ssbo_emulation workaround to all UE5 games | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r3) | 2026-10-22 | [`617f463`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/617f463e21a12a8125dae72f5b8818770da81195) | nvk: only upload descriptor state if dirty | Vulkan 1.4.363 |
