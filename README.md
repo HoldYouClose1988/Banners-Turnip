@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`8835df3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/8835df35264bcadbe68b6b43230f48c549fb2df5) |
+| **Commit** | [`056bcae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/056bcaeb8531580f13862db87530bcff07bbed9a) |
 | **Commit date** | 2026-10-23 |
-| **Commit title** | d3d12: Reclaim buffer memory outside manager locks |
+| **Commit title** | v3dv: keep descriptors aligned after inline uniform blocks |
 | **Build date** | 20261023 |
-| **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 3 ZIPs · Linux runtime: 3 ZIPs |
-| **Release** | [v27.0.0-20261023-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r2) |
+| **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
+| **Release** | [v27.0.0-20261023-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r3) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261023-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r3) | 2026-10-23 | [`056bcae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/056bcaeb8531580f13862db87530bcff07bbed9a) | v3dv: keep descriptors aligned after inline uniform blocks | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r2) | 2026-10-23 | [`8835df3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/8835df35264bcadbe68b6b43230f48c549fb2df5) | d3d12: Reclaim buffer memory outside manager locks | Vulkan 1.4.363 |
 | [v27.0.0-20261023](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023) | 2026-10-23 | [`a8ed94a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a8ed94aea549d7f6285eb9ce8fed0ebf91ab2360) | util: restore the launch affinity in threads that shed a pinned one | Vulkan 1.4.363 |
 | [v27.0.0-20261022-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261022-r6) | 2026-10-22 | [`73244ce`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/73244ce974816fb41ccfb2fb3440cb8049b0dbed) | llvmpipe: avoid running helper invocations when not needed | Vulkan 1.4.363 |
