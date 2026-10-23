@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261023-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r6) | 2026-10-23 | [`5f0fc49`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f0fc493a1e0054b2e2a4d304ce9ac2a7a6a177e) | nir: Remove nir_format_unorm_to_float_precise | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r5) | 2026-10-23 | [`bda0141`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bda014104ecf26a7485f5b05b6ee7b377ce3abf5) | mesa: only set _NEW_BUFFERS from _mesa_resize_framebuffer when size changed | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r4) | 2026-10-23 | [`0d94b3f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0d94b3f397fb9cf8470bb5600ada8af79ff5361a) | pvr/ci: add some internally_synchronized_queues tests to AXE skips | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r3) | 2026-10-23 | [`056bcae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/056bcaeb8531580f13862db87530bcff07bbed9a) | v3dv: keep descriptors aligned after inline uniform blocks | Vulkan 1.4.363 |
