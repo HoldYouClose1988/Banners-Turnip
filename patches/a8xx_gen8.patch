@@ -242,7 +242,7 @@ index a74814329fb..452695fc5db 100644
 +    ))
 +
  add_gpus([
-         GPUId(chip_id=0x44030a20, name="Adreno (TM) 829"), # KGSL
+         GPUId(chip_id=0xffff44030a20, name="Adreno (TM) 829"),
      ], A6xxGPUInfo(
 From 1ebd39a498786be2c3acfc7729c2c5bf0c21d7c8 Mon Sep 17 00:00:00 2001
 From: DVD <dmitrijnemov13@gmail.com>
