@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261023-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r4) | 2026-10-23 | [`0d94b3f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0d94b3f397fb9cf8470bb5600ada8af79ff5361a) | pvr/ci: add some internally_synchronized_queues tests to AXE skips | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r3) | 2026-10-23 | [`056bcae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/056bcaeb8531580f13862db87530bcff07bbed9a) | v3dv: keep descriptors aligned after inline uniform blocks | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r2) | 2026-10-23 | [`8835df3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/8835df35264bcadbe68b6b43230f48c549fb2df5) | d3d12: Reclaim buffer memory outside manager locks | Vulkan 1.4.363 |
 | [v27.0.0-20261023](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023) | 2026-10-23 | [`a8ed94a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a8ed94aea549d7f6285eb9ce8fed0ebf91ab2360) | util: restore the launch affinity in threads that shed a pinned one | Vulkan 1.4.363 |
