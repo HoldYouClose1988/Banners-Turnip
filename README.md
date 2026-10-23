@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`0d94b3f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0d94b3f397fb9cf8470bb5600ada8af79ff5361a) |
+| **Commit** | [`bda0141`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bda014104ecf26a7485f5b05b6ee7b377ce3abf5) |
 | **Commit date** | 2026-10-23 |
-| **Commit title** | pvr/ci: add some internally_synchronized_queues tests to AXE skips |
+| **Commit title** | mesa: only set _NEW_BUFFERS from _mesa_resize_framebuffer when size changed |
 | **Build date** | 20261023 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261023-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r4) |
+| **Release** | [v27.0.0-20261023-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261023-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r5) | 2026-10-23 | [`bda0141`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bda014104ecf26a7485f5b05b6ee7b377ce3abf5) | mesa: only set _NEW_BUFFERS from _mesa_resize_framebuffer when size changed | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r4) | 2026-10-23 | [`0d94b3f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0d94b3f397fb9cf8470bb5600ada8af79ff5361a) | pvr/ci: add some internally_synchronized_queues tests to AXE skips | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r3) | 2026-10-23 | [`056bcae`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/056bcaeb8531580f13862db87530bcff07bbed9a) | v3dv: keep descriptors aligned after inline uniform blocks | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r2) | 2026-10-23 | [`8835df3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/8835df35264bcadbe68b6b43230f48c549fb2df5) | d3d12: Reclaim buffer memory outside manager locks | Vulkan 1.4.363 |
