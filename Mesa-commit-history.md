@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261024-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r2) | 2026-10-23 | [`19a1352`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/19a135296672f24ec1699ada244d5b80ced371da) | venus: avoid casting vulkan handles | Vulkan 1.4.363 |
 | [v27.0.0-20261024](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024) | 2026-10-23 | [`5e4bcb1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5e4bcb1c791fcfa6e9257e3fef33314cf6f7b92a) | nak,nvk: Increase nir_opt_peephole limit | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r6) | 2026-10-23 | [`5f0fc49`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f0fc493a1e0054b2e2a4d304ce9ac2a7a6a177e) | nir: Remove nir_format_unorm_to_float_precise | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r5) | 2026-10-23 | [`bda0141`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bda014104ecf26a7485f5b05b6ee7b377ce3abf5) | mesa: only set _NEW_BUFFERS from _mesa_resize_framebuffer when size changed | Vulkan 1.4.363 |
