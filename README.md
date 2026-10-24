@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`49d0063`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/49d0063365a3e6902ad1612dd58b01a86af1aadc) |
+| **Commit** | [`e2ab668`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e2ab6687d5ad700cc2b856af684aa014f9dae943) |
 | **Commit date** | 2026-10-24 |
-| **Commit title** | nir: fix build of floating point exception flags with toolchains lacking fenv support |
+| **Commit title** | mesa: zero pipe_memory_info before querying it |
 | **Build date** | 20261024 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261024-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r5) |
+| **Release** | [v27.0.0-20261024-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r6) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,13 +122,13 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261024-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r6) | 2026-10-24 | [`e2ab668`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e2ab6687d5ad700cc2b856af684aa014f9dae943) | mesa: zero pipe_memory_info before querying it | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r5) | 2026-10-24 | [`49d0063`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/49d0063365a3e6902ad1612dd58b01a86af1aadc) | nir: fix build of floating point exception flags with toolchains lacking fenv support | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r4) | 2026-10-24 | [`c515ec0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c515ec0fe77da9f42f390e442379f2d0629d908c) | docs: update the list of drivers in the u_trace docs | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r3) | 2026-10-24 | [`0deb51c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0deb51ca86e8c6fc8a0472a3ceb07241f1cf2546) | zink/ci: Update VA-API results on ANV | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r2) | 2026-10-24 | [`19a1352`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/19a135296672f24ec1699ada244d5b80ced371da) | venus: avoid casting vulkan handles | Vulkan 1.4.363 |
 | [v27.0.0-20261024](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024) | 2026-10-24 | [`5e4bcb1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5e4bcb1c791fcfa6e9257e3fef33314cf6f7b92a) | nak,nvk: Increase nir_opt_peephole limit | Vulkan 1.4.363 |
 | [v27.0.0-20261023-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r6) | 2026-10-23 | [`5f0fc49`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5f0fc493a1e0054b2e2a4d304ce9ac2a7a6a177e) | nir: Remove nir_format_unorm_to_float_precise | Vulkan 1.4.363 |
-| [v27.0.0-20261023-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261023-r5) | 2026-10-23 | [`bda0141`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bda014104ecf26a7485f5b05b6ee7b377ce3abf5) | mesa: only set _NEW_BUFFERS from _mesa_resize_framebuffer when size changed | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
