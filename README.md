@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`837ab0e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/837ab0e30740abb9ebb60bcd40a5114c68c673d9) |
+| **Commit** | [`ab1502f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ab1502fd1606633e910212da185e92fa6bd4cde1) |
 | **Commit date** | 2026-10-25 |
-| **Commit title** | freedreno/decode : Add new test for crashdec with devcore dump with mempool |
+| **Commit title** | asahi: Fix GL_EXT_semaphore[_fd]. |
 | **Build date** | 20261025 |
-| **Downloads** | X11 / AdrenoTools: 3 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261025-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r4) |
+| **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
+| **Release** | [v27.0.0-20261025-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261025-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r5) | 2026-10-25 | [`ab1502f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ab1502fd1606633e910212da185e92fa6bd4cde1) | asahi: Fix GL_EXT_semaphore[_fd]. | Vulkan 1.4.363 |
 | [v27.0.0-20261025-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r4) | 2026-10-25 | [`837ab0e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/837ab0e30740abb9ebb60bcd40a5114c68c673d9) | freedreno/decode : Add new test for crashdec with devcore dump with mempool | Vulkan 1.4.363 |
 | [v27.0.0-20261025-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r3) | 2026-10-25 | [`e7371b0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e7371b0711bb1cd38c39d1c05e5578c445cc6bca) | freedreno: Record the batch's write when a query ends | Vulkan 1.4.363 |
 | [v27.0.0-20261025-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r2) | 2026-10-25 | [`18879c9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/18879c94176c777064cbc5223a7206468c7a00a7) | docs: fix typo in no-gpl extension name | Vulkan 1.4.363 |
