@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261025](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025) | 2026-10-24 | [`02f1337`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/02f13375231bf0a9ed20b09cb21171351053be52) | mesa: don't read past the name when matching a resource without its [0] | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r7](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r7) | 2026-10-24 | [`02f1337`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/02f13375231bf0a9ed20b09cb21171351053be52) | mesa: don't read past the name when matching a resource without its [0] | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r6](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r6) | 2026-10-24 | [`e2ab668`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e2ab6687d5ad700cc2b856af684aa014f9dae943) | mesa: zero pipe_memory_info before querying it | Vulkan 1.4.363 |
 | [v27.0.0-20261024-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261024-r5) | 2026-10-24 | [`49d0063`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/49d0063365a3e6902ad1612dd58b01a86af1aadc) | nir: fix build of floating point exception flags with toolchains lacking fenv support | Vulkan 1.4.363 |
