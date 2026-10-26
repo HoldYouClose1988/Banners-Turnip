@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261026-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r2) | 2026-10-26 | [`1f0763a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1f0763a96af11cca76f9d72b9ddee200b1405547) | freedreno/a3xx: honor sampler view targets for buffer blits | Vulkan 1.4.363 |
 | [v27.0.0-20261026](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026) | 2026-10-26 | [`ec7b2f3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ec7b2f322abbcd593d600a14afe2d2773512af4e) | panvk: Fix incremental rendering for v14+ | Vulkan 1.4.363 |
 | [v27.0.0-20261025-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r5) | 2026-10-25 | [`ab1502f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ab1502fd1606633e910212da185e92fa6bd4cde1) | asahi: Fix GL_EXT_semaphore[_fd]. | Vulkan 1.4.363 |
 | [v27.0.0-20261025-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r4) | 2026-10-25 | [`837ab0e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/837ab0e30740abb9ebb60bcd40a5114c68c673d9) | freedreno/decode : Add new test for crashdec with devcore dump with mempool | Vulkan 1.4.363 |
