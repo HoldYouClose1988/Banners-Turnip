@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`4f64fb1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f64fb17129a846b72fcad0175eea6db937294a6) |
+| **Commit** | [`69e0bf9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69e0bf9e517784abef00ce1fe684400fbe2ad996) |
 | **Commit date** | 2026-10-26 |
-| **Commit title** | aco/isel: fix sgpr sub dword nir_op_vec with undefs |
-| **Build date** | 20261026 |
+| **Commit title** | nir/lower_continue_constructs: preserve SSA dominance across nested exits |
+| **Build date** | 20261027 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261026-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r3) |
+| **Release** | [v27.0.0-20261027](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,10 +122,10 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261027](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027) | 2026-10-27 | [`69e0bf9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69e0bf9e517784abef00ce1fe684400fbe2ad996) | nir/lower_continue_constructs: preserve SSA dominance across nested exits | Vulkan 1.4.363 |
 | [v27.0.0-20261026-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r3) | 2026-10-26 | [`4f64fb1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f64fb17129a846b72fcad0175eea6db937294a6) | aco/isel: fix sgpr sub dword nir_op_vec with undefs | Vulkan 1.4.363 |
 | [v27.0.0-20261026-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r2) | 2026-10-26 | [`1f0763a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1f0763a96af11cca76f9d72b9ddee200b1405547) | freedreno/a3xx: honor sampler view targets for buffer blits | Vulkan 1.4.363 |
 | [v27.0.0-20261026](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026) | 2026-10-26 | [`ec7b2f3`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ec7b2f322abbcd593d600a14afe2d2773512af4e) | panvk: Fix incremental rendering for v14+ | Vulkan 1.4.363 |
-| [v27.0.0-20261025-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261025-r5) | 2026-10-25 | [`ab1502f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ab1502fd1606633e910212da185e92fa6bd4cde1) | asahi: Fix GL_EXT_semaphore[_fd]. | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
