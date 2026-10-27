@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261027-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r4) | 2026-10-27 | [`a79e3fc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a79e3fc796402a6c1e06defa2facbf8dbab8051c) | nak: Move FutureReadyInstr::new into postpass.rs | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r3) | 2026-10-27 | [`c2d85da`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c2d85dae149800530ada5bd8adedeea1cc08eb2d) | ci: fix "Run new pipeline" button on the web UI | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r2) | 2026-10-27 | [`10e0cdd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/10e0cdd9c6eaba8e2ed91822d12e96003f7498a4) | radv/ci: automatically reboot on network error | Vulkan 1.4.363 |
 | [v27.0.0-20261027](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027) | 2026-10-26 | [`69e0bf9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69e0bf9e517784abef00ce1fe684400fbe2ad996) | nir/lower_continue_constructs: preserve SSA dominance across nested exits | Vulkan 1.4.363 |
