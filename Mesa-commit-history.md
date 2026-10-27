@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261027-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r2) | 2026-10-27 | [`10e0cdd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/10e0cdd9c6eaba8e2ed91822d12e96003f7498a4) | radv/ci: automatically reboot on network error | Vulkan 1.4.363 |
 | [v27.0.0-20261027](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027) | 2026-10-26 | [`69e0bf9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69e0bf9e517784abef00ce1fe684400fbe2ad996) | nir/lower_continue_constructs: preserve SSA dominance across nested exits | Vulkan 1.4.363 |
 | [v27.0.0-20261026-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r3) | 2026-10-26 | [`4f64fb1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/4f64fb17129a846b72fcad0175eea6db937294a6) | aco/isel: fix sgpr sub dword nir_op_vec with undefs | Vulkan 1.4.363 |
 | [v27.0.0-20261026-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261026-r2) | 2026-10-26 | [`1f0763a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1f0763a96af11cca76f9d72b9ddee200b1405547) | freedreno/a3xx: honor sampler view targets for buffer blits | Vulkan 1.4.363 |
