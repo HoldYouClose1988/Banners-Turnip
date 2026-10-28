@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.363 |
-| **Commit** | [`0abe1db`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0abe1db7c4a8a3e208e1a7c8f8bfd80d26773678) |
-| **Commit date** | 2026-10-27 |
-| **Commit title** | nir/lower_goto_ifs: Track outside blocks separately from break |
-| **Build date** | 20261027 |
+| **Commit** | [`05cf21b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/05cf21be7fccc091c31bf07452404faca8368943) |
+| **Commit date** | 2026-10-28 |
+| **Commit title** | kraid/validate: Ensure all swizzles are legal after legalize_src_swizzles |
+| **Build date** | 20261028 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261027-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r5) |
+| **Release** | [v27.0.0-20261028](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,11 +122,11 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261028](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028) | 2026-10-28 | [`05cf21b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/05cf21be7fccc091c31bf07452404faca8368943) | kraid/validate: Ensure all swizzles are legal after legalize_src_swizzles | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r5](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r5) | 2026-10-27 | [`0abe1db`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0abe1db7c4a8a3e208e1a7c8f8bfd80d26773678) | nir/lower_goto_ifs: Track outside blocks separately from break | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r4) | 2026-10-27 | [`a79e3fc`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a79e3fc796402a6c1e06defa2facbf8dbab8051c) | nak: Move FutureReadyInstr::new into postpass.rs | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r3) | 2026-10-27 | [`c2d85da`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c2d85dae149800530ada5bd8adedeea1cc08eb2d) | ci: fix "Run new pipeline" button on the web UI | Vulkan 1.4.363 |
 | [v27.0.0-20261027-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027-r2) | 2026-10-27 | [`10e0cdd`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/10e0cdd9c6eaba8e2ed91822d12e96003f7498a4) | radv/ci: automatically reboot on network error | Vulkan 1.4.363 |
-| [v27.0.0-20261027](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261027) | 2026-10-27 | [`69e0bf9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/69e0bf9e517784abef00ce1fe684400fbe2ad996) | nir/lower_continue_constructs: preserve SSA dominance across nested exits | Vulkan 1.4.363 |
 <!-- RECENT_BUILDS_END -->
 
 ---
