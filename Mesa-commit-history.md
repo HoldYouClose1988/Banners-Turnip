@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261028-r4](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028-r4) | 2026-10-28 | [`087e1fe`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/087e1fe4e6a5e1d30f30538112fd8cd62f4167f6) | panvk: fix mark_all_access_non_uniform metadata preservation | Vulkan 1.4.366 |
 | [v27.0.0-20261028-r3](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028-r3) | 2026-10-28 | [`9c82a78`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/9c82a78f18dd60907e380dec60c46336eab64b25) | freedreno: Match FD735 regardless of the speed bin fuse | Vulkan 1.4.366 |
 | [v27.0.0-20261028-r2](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028-r2) | 2026-10-28 | [`177e630`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/177e630169bf9953d596ce205bd15685e6a6f552) | radv/amdgpu: fix BO list leak on command submit failure | Vulkan 1.4.363 |
 | [v27.0.0-20261028](https://github.com/The412Banner/Banners-Turnip/releases/tag/v27.0.0-20261028) | 2026-10-28 | [`05cf21b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/05cf21be7fccc091c31bf07452404faca8368943) | kraid/validate: Ensure all swizzles are legal after legalize_src_swizzles | Vulkan 1.4.363 |
