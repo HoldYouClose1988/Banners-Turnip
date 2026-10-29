@@ -1,0 +1,63 @@
+name: Build Turnip (Android 10 / API 29)
+
+# Builds the regular AdrenoTools (Android) Turnip at API 29 so it loads on Android 10 devices
+# (e.g. AYN Odin Pro, SDM845 / Adreno 630), pinned to a Mesa commit so it pairs with an existing
+# -Linux release. Publishes nothing: the driver zip is uploaded as a workflow artifact.
+
+on:
+  workflow_dispatch:
+    inputs:
+      mesa_commit:
+        description: "Full 40-hex Mesa commit (default: the one v27.0.0-20261028-r5 was built from)"
+        type: string
+        default: "5510fc760a29c94dc1f441e83ba61e97b30e6925"
+      sdk_version:
+        description: "Android API level to build for"
+        type: string
+        default: "29"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ninja-build patchelf unzip flex bison git perl python3-pip glslang-tools curl zip patch ccache binutils
+          pip3 install --break-system-packages meson mako
+
+      - name: Build
+        env:
+          MESA_COMMIT: ${{ inputs.mesa_commit }}
+          SDKVER: ${{ inputs.sdk_version }}
+        run: |
+          chmod +x build_turnip.sh
+          export BUILD_VERSION="${{ github.run_number }}"
+          export BUILD_SUFFIX="api${SDKVER}"
+          export META_NAME="Mesa Turnip ${MESA_COMMIT:0:7} (API ${SDKVER})"
+          export META_DESC="A6xx/A7xx Turnip from Mesa ${MESA_COMMIT:0:7}, built for Android API ${SDKVER} so it loads on Android 10. KGSL build."
+          ./build_turnip.sh
+
+      - name: Check the Mesa commit
+        run: |
+          BUILT=$(git -C turnip_workdir/mesa rev-parse HEAD)
+          [ "$BUILT" = "${{ inputs.mesa_commit }}" ] || { echo "::error::built Mesa $BUILT, wanted ${{ inputs.mesa_commit }}"; exit 1; }
+
+      - name: Check imports against the target API
+        run: |
+          ZIP=$(ls turnip_workdir/mesa-turnip-*.zip | head -1)
+          CHECK=$(mktemp -d)
+          unzip -q "$ZIP" -d "$CHECK"
+          python3 tools/check_min_api.py "$CHECK/libvulkan_freedreno.so" "${{ inputs.sdk_version }}"
+          cat "$CHECK/meta.json"
+
+      - name: Upload driver zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: turnip-api${{ inputs.sdk_version }}
+          path: turnip_workdir/mesa-turnip-*.zip
+          if-no-files-found: error

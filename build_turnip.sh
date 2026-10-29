@@ -7,7 +7,11 @@ deps="git meson ninja patchelf unzip curl pip flex bison zip glslang glslangVali
 workdir="$(pwd)/turnip_workdir"
 ndkver="android-ndk-r29"
 ndk="$workdir/$ndkver/toolchains/llvm/prebuilt/linux-x86_64/bin"
-sdkver="34"
+# Android API level the driver is compiled for. Anything above 29 lets Mesa link bionic's
+# C11 <threads.h> (call_once, thrd_*, mtx_*), which only exists from Android 11 (API 30), so the
+# driver fails to load on Android 10 and AdrenoTools silently falls back to the system driver.
+# At 29 Mesa uses its own C11 threads implementation. Override with SDKVER=<n> if needed.
+sdkver="${SDKVER:-29}"
 mesasrc="https://gitlab.freedesktop.org/mesa/mesa"
 srcfolder="mesa"
 
@@ -167,7 +171,6 @@ EOF
 		-Dvulkan-beta=true \
 		-Dfreedreno-kmds=kgsl \
 		-Degl=disabled \
-		-Dplatform-sdk-version=36 \
 		-Dandroid-libbacktrace=disabled \
 		--reconfigure
 
@@ -200,7 +203,7 @@ EOF
   "packageVersion": "1",
   "vendor": "Mesa",
   "driverVersion": "${_driver_version}",
-  "minApi": 28,
+  "minApi": ${sdkver},
   "libraryName": "libvulkan_freedreno.so"
 }
 EOF
