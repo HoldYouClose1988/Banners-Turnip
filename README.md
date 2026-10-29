@@ -107,12 +107,12 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 | :--- | :--- |
 | **Mesa version** | 27.0.0 |
 | **Vulkan version** | Vulkan 1.4.366 |
-| **Commit** | [`bd58337`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bd583379bc80439916a856b8bfaf2f0b45b04fbe) |
+| **Commit** | [`daa925c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/daa925c3bc78697cc214317ee330a39d1acda19f) |
 | **Commit date** | 2026-10-29 |
-| **Commit title** | kk,wsi/metal: Fix stencil and swapchain image usage |
+| **Commit title** | anv: stricter check for companion_rcs_cmd_buffer when chaining |
 | **Build date** | 20261029 |
 | **Downloads** | X11 / AdrenoTools: 4 ZIPs · Bannerlator Wayland: 4 ZIPs · Linux runtime: 4 ZIPs |
-| **Release** | [v27.0.0-20261029-r2](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261029-r2) |
+| **Release** | [v27.0.0-20261029-r3](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261029-r3) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -122,6 +122,7 @@ Tips: `TU_DEBUG=sysmem` if an A830 looks glitchy; `TU_DEBUG=deck_emu` if a game 
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261029-r3](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261029-r3) | 2026-10-29 | [`daa925c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/daa925c3bc78697cc214317ee330a39d1acda19f) | anv: stricter check for companion_rcs_cmd_buffer when chaining | Vulkan 1.4.366 |
 | [v27.0.0-20261029-r2](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261029-r2) | 2026-10-29 | [`bd58337`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bd583379bc80439916a856b8bfaf2f0b45b04fbe) | kk,wsi/metal: Fix stencil and swapchain image usage | Vulkan 1.4.366 |
 | [v27.0.0-20261029](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261029) | 2026-10-29 | [`1c3a936`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1c3a936490f9f0951188218e136cd03bca497386) | Replace `reallocarray` with `realloc` in lp_scene.c | Vulkan 1.4.366 |
 <!-- RECENT_BUILDS_END -->
