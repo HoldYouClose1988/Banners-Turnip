@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v27.0.0-20261030-r5](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261030-r5) | 2026-10-30 | [`bebbaf4`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/bebbaf4961a99a51a6567db06d6141a1cc6ec621) | agx: fix phi register shuffling order | Vulkan 1.4.366 |
 | [v27.0.0-20261030-r4](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261030-r4) | 2026-10-30 | [`3ff6450`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3ff6450ed81983619d4ff3776fc6a1e76f860137) | nvk: Include stencil usage in image format queries | Vulkan 1.4.366 |
 | [v27.0.0-20261030-r3](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261030-r3) | 2026-10-30 | [`1c3e49a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1c3e49ad4118ad03836b2c8e5c1b6ac949b08dc2) | util/rbsp: check each byte once for emulation prevention | Vulkan 1.4.366 |
 | [v27.0.0-20261030-r2](https://github.com/HoldYouClose1988/Banners-Turnip/releases/tag/v27.0.0-20261030-r2) | 2026-10-30 | [`77452b9`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/77452b9092cc44d76d92180a12d3aaaf27a98382) | radeonsi: dirty DB_Z_INFO when the sample count changes without Z/S | Vulkan 1.4.366 |
